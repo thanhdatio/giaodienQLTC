@@ -1,0 +1,5 @@
+{
+  "name": "Trình quản lý tài chính cá nhân",
+  "description": "Một ứng dụng web để theo dõi thu nhập và chi tiêu cá nhân, quản lý nhiều tài khoản và xem báo cáo tài chính trực quan. Được hỗ trợ bởi AI để cung cấp thông tin chi tiết.",
+  "requestFramePermissions": []
+}
